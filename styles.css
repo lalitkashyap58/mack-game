@@ -59,11 +59,10 @@ button:hover {
   flex-wrap: wrap;
   justify-content: center;
   width: 390px;
-  
 }
 .square {
-  width: 90px;
-  height: 90px;
+  width: 120px;
+  height: 120px;
   border: 1px solid black;
   box-shadow: 1px 3px 5px rgb(150, 45, 255);
   margin: 10px;
